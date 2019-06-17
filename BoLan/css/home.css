@@ -1,0 +1,232 @@
+.nav1{
+	border-bottom: 3px solid #ff2832;
+}
+.nav-1{
+	background-color: #F9F9F9;
+	margin: 0;
+}
+.logo{
+	font-font-family: KaiTi;
+	font-size: 40px;color: #487A6f;
+	text-shadow: grey 5px 2px 6px;
+	font-weight: 500;
+}
+.bs-example{
+	margin-top: 30px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.btns{
+	margin-top: 30px;
+	padding-left: 20px;
+}
+.row-1{
+	margin-top: 14px;
+	padding-left: 60px;
+}
+.sousuo{
+	border: 2px solid #ff2832;
+}
+.btn{
+	border-radius: 0;
+}
+.navs li a{
+	color: #646464;
+}
+.navs li a:hover{
+	color: #ff2832;
+	background-color: #F6F6F6;
+}
+.btn2{
+	background-color: #ff2832;
+	border: 0;
+	color: #FFFFFF;
+	border: 1px solid #ff2832;
+}
+.input-group-btn .dropdown-toggle{
+	border: 0px;
+	background-color: #f6f6f6;
+}
+.form-control{
+	border-radius: 0;
+}
+.input-group{
+	border: 2px solid #ff2832;
+	outline: none;
+}
+.input{  
+    background:none;  
+    outline:none;  
+    border: 0;
+	padding-left: 10px;
+	font-size: 12px;
+	padding-top: 10px;
+}
+.btn2:hover{
+	background-color: #ff2832;
+	color: #F6F6F6;
+	border: 1px solid #ff2832;
+}
+.btn3{
+	color: #ff2832;
+	transition: all 1s;
+}
+.btn3 img{
+	padding-bottom: 5px;
+}
+.num{
+	font-weight: 800;
+	padding-left: 10px;
+}
+.btn3:hover{
+	color: #ff2832;
+	background-color: #F6F6F6;
+}
+.all{
+	margin-top: 34px;
+	background-color: #ff2832;
+	padding: 16px 10px 16px 10px;
+}
+.all a{
+	color: #FFFFFF; 
+	font-weight: 800;
+}
+.col-md-2 .all a:hover{
+	background-color: #ff2832;
+}
+.all-1 a{
+	background-color: #FFFFFF;
+	color: #323232;
+	font-weight: 800;
+}
+.col-md-10 .all-1 a:hover{
+	background-color: #FFFFFF;
+	color: #ff2832;
+}
+/* 导航栏结束 */
+
+.section-1{
+	background-color: #F5F5F5;
+}
+.col-md-12{
+	font-size: 12px;
+}
+.content-1{
+	margin: 20px 0px;
+}
+.panel .panel-heading{
+	background-color: #487A6f;
+	color: #FFFFFF;
+}
+.panel-body .big{
+	color: #487A6f;
+	font-weight: 900;
+	margin-left: 5px;
+}
+.panel-body .big:hover{
+	color: #EE8429;
+	font-weight: 900;
+	text-decoration: underline;
+}
+.panel .span-1{
+	border-top: 1px dashed #487A6f;
+	color: #487A6f;
+	font-weight: 900;
+}
+.sm{
+	color: #666666;
+	font-weight: 500;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.sm:hover{
+	color: #EE8429;
+	text-decoration: underline;
+}
+.span-1{
+	padding-bottom: 2px;
+}
+.span-1 p{
+	margin-top: 10px;
+}
+.panel-body .glyphicon-menu-right{
+	float: right;
+}
+
+/* 图书列表展示 */
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.col-md-2 h1{		
+	color: #FFFFFF;
+	background-color: #487A6f;
+	border-radius: 50%;
+	font-family: KaiTi;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+}
+h4{
+
+	color: #487A6f;
+	font-size: 22px;
+	border-bottom: 2px solid #487A6f;
+	width: 80%;
+}
+.col-md-10{
+	margin-top: 34px;
+	padding-left: 0px;
+}
+.show .col-md-3{
+	margin-top:20px;
+	/* border: 1px solid red; */
+}
+.col-md-1{
+	border: 1px solid red;
+}
+.show .col-md-3{
+	/* border: 1px solid black; */
+	padding-left: 0px;
+}
+.show a{
+	color: #080808;
+}
+.show a:hover{
+	color: #F19E55;
+}
+.show span{
+	font-size: 11px;
+}
+.show .autor{
+	color: #BABABA;
+}
+.show .price{
+	font-weight: 800;
+	color: #D45328;
+}
+.show .old_price{
+	color: #BABABA;
+	text-decoration: line-through;
+}
+
+/* 右侧 */
+.col-md-2 .col-md-12{
+	border: 1px solid red;
+}
+.well{
+	padding-left: 5px;
+	padding-right: 0px;
+	margin-left: 0px;
+}
+.well #p1{
+	font-weight: 800;
+	font-size: 16px;
+}
+.well a{
+	font-size: 10px;
+	color: #101010;
+}
+.well a:hover{
+	color: #F19E55;
+}
