@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/vue.js"></script>
+	</head>
+	<body>
+		<div id="qhit">
+			<input type="text" id="t" v-model="msg" />
+			<h1>msg</h1>
+		</div>
+	</body>
+	<script>
+		var vm = new Vue({
+			el:"#qhit",
+			data:{
+				msg:'hello'
+			},
+			created:function(){
+				console.log("vue实例已经被创建");
+				console.log(document.getElementById("t").value);
+			},
+			mounted:function(){
+				console.log("挂载.....");
+				console.log(document.getElementById("t").value);
+			},
+			updated:function(){
+				console.log("更新.....");
+			},
+			destroyed:function(){
+				console.log("销毁.....");
+			}
+		})
+	</script>
+</html>
