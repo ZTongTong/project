@@ -1,0 +1,22 @@
+.circle{
+	border: #1296db 10px solid;
+	width: 300upx;
+	height: 300upx;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.line image{
+	width: 120upx;
+	height: 80upx;
+	/* border: #000000 1px solid; */
+	position: relative;
+	left: -210upx;
+}
+.line text{
+	position: relative;
+	left: -180upx;
+}
+.line{
+	/* border: #000000 1px solid; */
+	color: darkgrey;
+}

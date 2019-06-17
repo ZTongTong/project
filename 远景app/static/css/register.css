@@ -1,0 +1,25 @@
+page{
+	background-color: #FFFFCC;
+}
+input{
+	background: white;
+	width: 90%;
+	height: 100upx;
+	padding-left: 10upx;
+	margin: 10upx 5%;
+	border-radius: 5px;
+}
+radio-group{
+	background: white;
+	width: 90%;
+	height: 100upx;
+	padding-left: 10upx;
+	margin: 10upx 5%;
+	border-radius: 5px;
+}
+uni-icon{
+	position: absolute;
+	top: 238upx;
+	right: 100upx;
+	z-index: 10;
+}
